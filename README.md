@@ -19,7 +19,7 @@
 
 # What is Project Connected Home over IP?
 
-Project Connected Home over IP is a new Working Group within the Zigbee
+Project Connected Home over IP is a new Working Group within the Connectivity Standards
 Alliance. This Working Group plans to develop and promote the adoption of a new,
 royalty-free connectivity standard to increase compatibility among smart home
 products, with security as a fundamental design tenet.
