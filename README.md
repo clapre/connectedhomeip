@@ -1,4 +1,4 @@
-# Connected Home over IP
+# Matter (formerly Project Connected Home over IP)
 
 ![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)
 
@@ -17,24 +17,12 @@
 
 ![ZAP Templates](https://github.com/project-chip/connectedhomeip/workflows/ZAP/badge.svg)
 
-# What is Project Connected Home over IP?
-
-Project Connected Home over IP is a new Working Group within the Zigbee
-Alliance. This Working Group plans to develop and promote the adoption of a new,
-royalty-free connectivity standard to increase compatibility among smart home
-products, with security as a fundamental design tenet.
-
-The goal of the Connected Home over IP project is to simplify development for
-manufacturers and increase compatibility for consumers. The project is built
-around a shared belief that smart home devices should be secure, reliable, and
-seamless to use. By building upon Internet Protocol (IP), the project aims to
-enable communication across smart home devices, mobile apps, and cloud services
-and to define a specific set of IP-based networking technologies for device
-certification.
-
-The Zigbee Alliance officially opened the Project Connected Home over IP
-(Project CHIP) Working Group on January 17, 2020 and is in the process of
-drafting the specification.
+# What is Matter?
+This industry unifying standard is a promise of reliable, secure connectivity—a seal of approval that
+devices will work seamlessly together, today and tomorrow. Matter is creating more connections
+between more objects, simplifying development for manufacturers and increasing compatibility for
+consumers. This collaborative breakthrough is built on proven technologies and guided by
+the Connectivity Standards Alliance (formerly Zigbee Alliance), whose members come together from
 
 Visit [buildwithmatter.com](https://buildwithmatter.com) to learn more and read
 the latest news and updates about the project.
